@@ -1,0 +1,2 @@
+exam_id,title,description,duration_minutes,created_by_user_id,updated_dt,updated_by,created_dt,created_by
+101,Java and Spring Core,A comprehensive exam on fundamental Java and Spring concepts.,60,1,2025-09-20 10:05:00+08,teacher.java,2025-09-20 10:05:00+08,teacher.java

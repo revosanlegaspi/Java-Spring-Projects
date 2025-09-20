@@ -1,0 +1,41 @@
+choice_id,question_id,choice_text,is_correct,updated_dt,updated_by,created_dt,created_by
+301,201,To tightly couple components.,FALSE,2025-09-20 10:16:00+08,teacher.java,2025-09-20 10:16:00+08,teacher.java
+302,201,To manage and configure application components.,TRUE,2025-09-20 10:16:00+08,teacher.java,2025-09-20 10:16:00+08,teacher.java
+303,201,To handle HTTP requests.,FALSE,2025-09-20 10:16:00+08,teacher.java,2025-09-20 10:16:00+08,teacher.java
+304,201,To perform garbage collection.,FALSE,2025-09-20 10:16:00+08,teacher.java,2025-09-20 10:16:00+08,teacher.java
+305,202,`@Component`,TRUE,2025-09-20 10:17:00+08,teacher.java,2025-09-20 10:17:00+08,teacher.java
+306,202,`@Service`,TRUE,2025-09-20 10:17:00+08,teacher.java,2025-09-20 10:17:00+08,teacher.java
+307,202,`@Configuration`,FALSE,2025-09-20 10:17:00+08,teacher.java,2025-09-20 10:17:00+08,teacher.java
+308,202,`@Autowired`,FALSE,2025-09-20 10:17:00+08,teacher.java,2025-09-20 10:17:00+08,teacher.java
+309,203,`abstract`,FALSE,2025-09-20 10:18:00+08,teacher.java,2025-09-20 10:18:00+08,teacher.java
+310,203,`sealed`,FALSE,2025-09-20 10:18:00+08,teacher.java,2025-09-20 10:18:00+08,teacher.java
+311,203,`final`,TRUE,2025-09-20 10:18:00+08,teacher.java,2025-09-20 10:18:00+08,teacher.java
+312,203,`static`,FALSE,2025-09-20 10:18:00+08,teacher.java,2025-09-20 10:18:00+08,teacher.java
+313,204,prototype,FALSE,2025-09-20 10:19:00+08,teacher.java,2025-09-20 10:19:00+08,teacher.java
+314,204,request,FALSE,2025-09-20 10:19:00+08,teacher.java,2025-09-20 10:19:00+08,teacher.java
+315,204,singleton,TRUE,2025-09-20 10:19:00+08,teacher.java,2025-09-20 10:19:00+08,teacher.java
+316,204,session,FALSE,2025-09-20 10:19:00+08,teacher.java,2025-09-20 10:19:00+08,teacher.java
+317,205,Java-based configuration,TRUE,2025-09-20 10:20:00+08,teacher.java,2025-09-20 10:20:00+08,teacher.java
+318,205,XML-based configuration,TRUE,2025-09-20 10:20:00+08,teacher.java,2025-09-20 10:20:00+08,teacher.java
+319,205,Annotation-based configuration,TRUE,2025-09-20 10:20:00+08,teacher.java,2025-09-20 10:20:00+08,teacher.java
+320,205,HTML-based configuration,FALSE,2025-09-20 10:20:00+08,teacher.java,2025-09-20 10:20:00+08,teacher.java
+321,206,To simplify the configuration of Spring applications.,TRUE,2025-09-20 10:21:00+08,teacher.java,2025-09-20 10:21:00+08,teacher.java
+322,206,To replace the Spring Framework entirely.,FALSE,2025-09-20 10:21:00+08,teacher.java,2025-09-20 10:21:00+08,teacher.java
+323,206,To provide a full-stack Java development environment.,FALSE,2025-09-20 10:21:00+08,teacher.java,2025-09-20 10:21:00+08,teacher.java
+324,206,To manage database connections only.,FALSE,2025-09-20 10:21:00+08,teacher.java,2025-09-20 10:21:00+08,teacher.java
+325,207,Atomicity,TRUE,2025-09-20 10:22:00+08,teacher.java,2025-09-20 10:22:00+08,teacher.java
+326,207,Accessibility,FALSE,2025-09-20 10:22:00+08,teacher.java,2025-09-20 10:22:00+08,teacher.java
+327,207,Authenticity,FALSE,2025-09-20 10:22:00+08,teacher.java,2025-09-20 10:22:00+08,teacher.java
+328,207,Authorization,FALSE,2025-09-20 10:22:00+08,teacher.java,2025-09-20 10:22:00+08,teacher.java
+329,208,Constructor Injection,FALSE,2025-09-20 10:23:00+08,teacher.java,2025-09-20 10:23:00+08,teacher.java
+330,208,Setter Injection,FALSE,2025-09-20 10:23:00+08,teacher.java,2025-09-20 10:23:00+08,teacher.java
+331,208,Static Injection,TRUE,2025-09-20 10:23:00+08,teacher.java,2025-09-20 10:23:00+08,teacher.java
+332,208,Field Injection,FALSE,2025-09-20 10:23:00+08,teacher.java,2025-09-20 10:23:00+08,teacher.java
+333,209,`@Component`,TRUE,2025-09-20 10:24:00+08,teacher.java,2025-09-20 10:24:00+08,teacher.java
+334,209,`@Service`,TRUE,2025-09-20 10:24:00+08,teacher.java,2025-09-20 10:24:00+08,teacher.java
+335,209,`@Repository`,TRUE,2025-09-20 10:24:00+08,teacher.java,2025-09-20 10:24:00+08,teacher.java
+336,209,`@Controller`,TRUE,2025-09-20 10:24:00+08,teacher.java,2025-09-20 10:24:00+08,teacher.java
+337,210,To make a variable a constant.,TRUE,2025-09-20 10:25:00+08,teacher.java,2025-09-20 10:25:00+08,teacher.java
+338,210,To prevent a method from being overridden.,TRUE,2025-09-20 10:25:00+08,teacher.java,2025-09-20 10:25:00+08,teacher.java
+339,210,To prevent a class from being inherited.,TRUE,2025-09-20 10:25:00+08,teacher.java,2025-09-20 10:25:00+08,teacher.java
+340,210,To make a variable global.,FALSE,2025-09-20 10:25:00+08,teacher.java,2025-09-20 10:25:00+08,teacher.java

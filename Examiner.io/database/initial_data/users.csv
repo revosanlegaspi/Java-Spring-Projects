@@ -1,0 +1,4 @@
+user_id,username,password,role,first_name,last_name,updated_dt,updated_by,created_dt,created_by
+1,teacher.java,hashed_pass_1,TEACHER,Emily,Davis,2025-09-20 10:00:00+08,system,2025-09-20 10:00:00+08,system
+2,student.dev,hashed_pass_2,STUDENT,Alex,Jones,2025-09-20 10:01:00+08,system,2025-09-20 10:01:00+08,system
+3,admin.ops,hashed_pass_3,ADMIN,Chris,Miller,2025-09-20 10:02:00+08,system,2025-09-20 10:02:00+08,system

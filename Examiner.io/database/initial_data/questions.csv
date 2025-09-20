@@ -1,0 +1,11 @@
+question_id,exam_id,question_text,question_type,updated_dt,updated_by,created_dt,created_by
+201,101,What is the primary purpose of Spring's Dependency Injection (DI)?,SINGLE_CHOICE,2025-09-20 10:06:00+08,teacher.java,2025-09-20 10:06:00+08,teacher.java
+202,101,Which of these annotations are used for component scanning in Spring?,MULTI_SELECT,2025-09-20 10:07:00+08,teacher.java,2025-09-20 10:07:00+08,teacher.java
+203,101,What is the keyword used to prevent a class from being inherited in Java?,SINGLE_CHOICE,2025-09-20 10:08:00+08,teacher.java,2025-09-20 10:08:00+08,teacher.java
+204,101,What is the default scope for a Spring Bean?,SINGLE_CHOICE,2025-09-20 10:09:00+08,teacher.java,2025-09-20 10:09:00+08,teacher.java
+205,101,Which of the following are valid ways to configure beans in Spring?,MULTI_SELECT,2025-09-20 10:10:00+08,teacher.java,2025-09-20 10:10:00+08,teacher.java
+206,101,What is the main role of Spring Boot?,SINGLE_CHOICE,2025-09-20 10:11:00+08,teacher.java,2025-09-20 10:11:00+08,teacher.java
+207,101,What does the 'A' in the ACID properties of a transaction stand for?,SINGLE_CHOICE,2025-09-20 10:12:00+08,teacher.java,2025-09-20 10:12:00+08,teacher.java
+208,101,Which of these is not a type of dependency injection?,SINGLE_CHOICE,2025-09-20 10:13:00+08,teacher.java,2025-09-20 10:13:00+08,teacher.java
+209,101,Which of the following are Spring stereotypes?,MULTI_SELECT,2025-09-20 10:14:00+08,teacher.java,2025-09-20 10:14:00+08,teacher.java
+210,101,What is the purpose of the 'final' keyword in Java?,MULTI_SELECT,2025-09-20 10:15:00+08,teacher.java,2025-09-20 10:15:00+08,teacher.java

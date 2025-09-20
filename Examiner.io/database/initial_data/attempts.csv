@@ -1,0 +1,2 @@
+attempt_id,user_id,exam_id,start_time,end_time,score,updated_dt,updated_by,created_dt,created_by
+1,2,101,2025-09-20 10:30:00+08,2025-09-20 10:45:00+08,8,2025-09-20 10:45:00+08,student.dev,2025-09-20 10:30:00+08,student.dev
